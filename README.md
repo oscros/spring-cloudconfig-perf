@@ -1,2 +1,7 @@
 # spring-cloudconfig-perf
-Testing a second git config repo for spring cloud config server (pluralsight)
+Demo configuration repo for testing out spring cloud config server functionality
+
+
+[First Configuration Repository](https://github.com/oscros/spring-cloudconfig)
+[Config Server Repository](https://github.com/oscros/spring-cloud-config-server)
+[Config Client Repository](https://github.com/oscros/spring-cloud-config-client)
